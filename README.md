@@ -15,3 +15,34 @@ The model classifies images into 4 categories:
 We used transfer learning with ResNet50 to improve performance and reduce training time.
 
 The final model achieved an F1-Score of 0.82 (82% accuracy)
+Dataset Information
+
+Total Images: 532
+
+Each class contains: 133 images
+
+Training Split: 80% (428 images)
+
+Validation Split: 20% (104 images)
+Label	Category
+0	COVID-19
+1	Normal
+2	Viral Pneumonia
+3	Bacterial Pneumonia
+Technologies Used
+
+Python 🐍
+
+TensorFlow / Keras
+
+NumPy
+
+Matplotlib
+
+Scikit-learn
+
+Google Colab
+
+Transfer Learning
+
+CNN (Convolutional Neural Network)
