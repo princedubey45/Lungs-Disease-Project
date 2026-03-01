@@ -12,6 +12,8 @@ The model classifies images into 4 categories:
 
 🦠 Bacterial Pneumonia
 
+DATA INFORMATIONS
+
 We used transfer learning with ResNet50 to improve performance and reduce training time.
 
 The final model achieved an F1-Score of 0.82 (82% accuracy)
