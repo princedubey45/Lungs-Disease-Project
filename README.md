@@ -29,7 +29,8 @@ Label	Category
 1	Normal
 2	Viral Pneumonia
 3	Bacterial Pneumonia
-Technologies Used
+
+TECHNOLOGIES USED
 
 Python 🐍
 
